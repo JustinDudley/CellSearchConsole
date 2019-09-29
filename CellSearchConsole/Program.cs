@@ -15,7 +15,7 @@ namespace CellSearchConsole {
             Console.WriteLine($"The property of the instance alg known as alg.algString is this string: {str}");
             string two = str.Substring(0, 2);
             Console.WriteLine($"Here is a substring: {two}");
-
+             
 
             char[] symbolArr = { '\'', '2' };
             string betStr = "";
